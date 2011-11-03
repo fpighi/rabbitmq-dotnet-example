@@ -1,0 +1,6 @@
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Common\bin\Debug\Common.dll
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Common\bin\Debug\Common.pdb
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Common\bin\Debug\RabbitMQ.Client.dll
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Common\obj\Debug\Common.dll
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Common\obj\Debug\Common.pdb

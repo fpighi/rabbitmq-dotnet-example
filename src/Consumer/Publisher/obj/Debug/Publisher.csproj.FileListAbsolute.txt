@@ -1,0 +1,11 @@
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\Publisher.exe.config
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\log4net.config
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\Publisher.exe
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\Publisher.pdb
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\Common.dll
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\log4net.dll
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\RabbitMQ.Client.dll
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\bin\Debug\Common.pdb
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\obj\Debug\ResolveAssemblyReference.cache
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\obj\Debug\Publisher.exe
+D:\dev\lunchnlearn\rabbitmq\src\Consumer\Publisher\obj\Debug\Publisher.pdb

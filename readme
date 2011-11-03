@@ -1,0 +1,14 @@
+Step 1:
+output messages with topic 'hello'
+
+Step 1:
+output messages with topic 'example.hello' or 'example.goodbye'
+
+Step 2:
+output messages with topic 'example.#'
+
+Step 3:
+output all messages and make it asynchronous using Rx
+
+Step 4: 
+wrap it in a service using TopShelf
